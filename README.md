@@ -6,6 +6,6 @@ The typical user of Itiner-buddy bot will be a discord user of any sort looking 
 
 # What You Can Do with Itiner-buddy
 <h3>1. Apply Role</h3>
--- Gives to the user the "Itiner-Buddy: Team Manager" role which allows them to create, edit and delete meetings.
--- Required Role to use : Itiner-Buddy: Team Manager
+    - Gives to the user the "Itiner-Buddy: Team Manager" role which allows them to create, edit and delete meetings.
+    - Required Role to use : Itiner-Buddy: Team Manager
 
