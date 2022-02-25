@@ -37,6 +37,7 @@ The typical user of Itiner-buddy bot will be a discord user of any sort looking 
 - Required Role to use : All Members
 
 <h3>7. Set a Reminder</h3>
+
 - Set a reminder for a meeting as a specified time before the meeting starts
 - Required Role to use : All Members
 
