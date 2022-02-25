@@ -1,4 +1,4 @@
-# itiner-buddy
+# Itiner-buddy
 Itiner-buddy is a Discord bot allowing Discord users to schedule and manage meetings in Discord's channels as remote meetings become inevitable. Aimed to help team leaders schedule meetings based on the bot's suggestions and allow participants to manage their available times for meetings.
 
 # General Users
