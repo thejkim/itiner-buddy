@@ -56,5 +56,5 @@ The typical user of Itiner-buddy bot will be a discord user of any sort looking 
 - Get a list of times for a meeting that is within meeting participants' available times and doesn't conflicts with their other meetings.
 - Required Role to use : Itiner-Buddy: Team Manager
 
-#Play Around Itiner-buddy Yourself
+# Play Around Itiner-buddy Yourself
 [Join the Discord Server. Itiner-buddy is waiting for you!](https://discord.gg/3ESCGGRZ)
