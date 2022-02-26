@@ -18,11 +18,19 @@ The typical user of Itiner-buddy bot will be a discord user of any sort looking 
 - Give others the "Itiner-Buddy: Team Manager" role which allows them to create, edit and delete meetings.
 - Required Role to use : Admin or Itiner-Buddy: Team Manager
 
+![i2](screen-captures/apply-role.PNG)
+
 <h3>3. Update a Meeting</h3>
 
 - Update meeting title, date and time.
 - When you set the date & time, you will be able to get recoomandations of the meeting time based on the participants.
 - Required Role to use : Itiner-Buddy: Team Manager and the meeting host
+
+![i3](screen-captures/updateMeetingTime.PNG)
+
+![i3](screen-captures/updateMeetingDate-timeAvail.PNG)
+
+![i3](screen-captures/updateMeetingDate-timeNotAvail.PNG)
 
 <h3>4. Cancel a Meeting</h3>
 
@@ -58,6 +66,10 @@ The typical user of Itiner-buddy bot will be a discord user of any sort looking 
 
 - Get a list of times for a meeting that is within meeting participants' available times and doesn't conflicts with their other meetings.
 - Required Role to use : Itiner-Buddy: Team Manager
+
+![i3](screen-captures/find-best-time.PNG)
+
+<br>
 
 # Play Around Itiner-buddy Yourself
 [Join the Discord Server.](https://discord.gg/3ESCGGRZ) Itiner-buddy is waiting for you!
