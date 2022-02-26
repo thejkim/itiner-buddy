@@ -69,7 +69,5 @@ The typical user of Itiner-buddy bot will be a discord user of any sort looking 
 
 ![i3](screen-captures/find-best-time.PNG)
 
-<br>
-
 # Play Around Itiner-buddy Yourself
 [Join the Discord Server.](https://discord.gg/3ESCGGRZ) Itiner-buddy is waiting for you!
