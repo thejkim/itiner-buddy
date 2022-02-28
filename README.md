@@ -54,13 +54,13 @@ The typical user of Itiner-buddy bot will be a discord user of any sort looking 
 
 <h3>8. Manage Available Times</h3>
 
-- Set, delete, and view your own available or preferred times for meetings.
+- Set, delete, and view your own available or preferred times for meetings. You can either set time slots for a specified date or for a day as weekly time slots.
 - Required Role to use : All Members
 
-<h3>9. View All Members' Available Times</h3>
+<h3>9. View Available Times</h3>
 
-- View every member's available times
-- Required Role to use : Itiner-Buddy: Team Manager
+- View your, other's or every member's available times
+- Required Role to use : All Members or Itiner-Buddy: Team Manager
 
 <h3>10. Get Recoomandations of The Meeting Time</h3>
 
